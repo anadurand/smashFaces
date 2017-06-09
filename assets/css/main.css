@@ -1,0 +1,23 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+/*utilitarios*/
+.roboto{
+  font-family: 'Roboto', sans-serif;
+}
+.rokkitt{
+  font-family: 'Rokkitt', serif;
+}
+.gold{
+  background-color: #f9a91a;
+}
+.dark-gray{
+  background-color: #333333;
+}
+.gray{
+  background-color: #cccccc;
+}
