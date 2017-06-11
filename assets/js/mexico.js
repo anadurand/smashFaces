@@ -1,103 +1,103 @@
 var mexico = [{
-              imagen: "Alma Patricia Jimenez.JPG",
+              image: "AlmaPatriciaJimenez.JPG",
               name: "Alma"
             },{
-              image: "Ana Maria Barbosa.JPG",
+              image: "AnaMariaBarbosa.JPG",
               name: "Ana"
             },{
-              image: "Analy Miranda.JPG",
-              name: "Analy"  
+              image: "AnalyMiranda.JPG",
+              name: "Analy"
             },{
-              image: "Areli Rodriguez.JPG",
-              name: "Areli"  
+              image: "AreliRodriguez.JPG",
+              name: "Areli"
             },{
-              image: "Beatriz Quesadas.JPG",
+              image: "BeatrizQuesadas.JPG",
               name: "Beatriz"
             },{
-              image: "Claudia Hernández.JPG",
+              image: "ClaudiaHernandez.JPG",
               name: "Claudia"
             },{
-              image: "Daniela Belem García.JPG",
+              image: "DanielaBelemGarcia.JPG",
               name: "Daniela"
             },{
-              image: "Elisa Guadalupe Martínez.JPG",
+              image: "ElisaGuadalupeMartinez.JPG",
               name: "Elisa"
             },{
-              image: "Evelyn Vázquez.JPG",
+              image: "EvelynVazquez.JPG",
               name: "Evelyn"
             },{
-              image: "Gabriela Peñaloza.JPG",
+              image: "GabrielaPenaloza.JPG",
               name: "Gabriela"
             },{
-              image: "Grissel Coutiño.JPG",
+              image: "GrisselCoutino.JPG",
               name: "Grissel"
             },{
-              image: "Guadalupe Guerrero.JPG",
+              image: "GuadalupeGuerrero.JPG",
               name: "Guadalupe"
             },{
-              image: "Johana Alexa Vargas.JPG",
+              image: "JohanaAlexaVargas.JPG",
               name: "Johana"
             },{
-              image: "Joyce Zeltzin Hernández.JPG",
+              image: "JoyceZeltzinHernandez.JPG",
               name: "Joyce"
             },{
-              image: "Juana Ofelia García.JPG",
+              image: "JuanaOfeliaGarcia.JPG",
               name: "Juana"
             },{
-              image: "Karen A. Sharon De Diego.JPG",
+              image: "KarenA.SharonDeDiego.JPG",
               name: "Karen"
             },{
-              image: "Karen Cruz Heredia.JPG",
+              image: "KarenCruzHeredia.JPG",
               name: "Karen Cruz"
             },{
-              image: "Karen Quiroz.JPG",
+              image: "KarenQuiroz.JPG",
               name: "Karen Quiroz"
             },{
-              image: "Karla Monica Llerenas.JPG",
+              image: "KarlaMonicaLlerenas.JPG",
               name: "Karla"
             },{
-              image: "Karla Vargas.JPG",
+              image: "KarlaVargas.JPG",
               name: "Karla Vargas"
             },{
-              image: "Leslie Anigail Vazquez.JPG",
+              image: "LeslieAnigailVazquez.JPG",
               name: "Leslie"
             },{
-              image: "Lilian Mishel Martínez.JPG",
+              image: "LilianMishelMartinez.JPG",
               name: "Lilian"
             },{
-              image: "Milca Sarai Del Angel.JPG",
+              image: "MilcaSaraiDelAngel.JPG",
               name: "Milca"
             },{
-              image: "Naibit Leonel.JPG",
+              image: "NaibitLeonel.JPG",
               name: "Naibit"
             },{
-              image: "Nayeli Carbajal.JPG",
+              image: "NayeliCarbajal.JPG",
               name: "Nayeli"
             },{
-              image: "Nelly Montserrat Saavedra.JPG",
+              image: "NellyMontserratSaavedra.JPG",
               name: "Nelly"
             },{
-              image: "Reyna Hernández.JPG",
+              image: "ReynaHernandez.JPG",
               name: "Reyna"
             },{
-              image: "Rubí Adriana Santiago.JPG",
+              image: "RubiAdrianaSantiago.JPG",
               name: "Rubi"
             },{
-              image: "Ruth López.JPG",
+              image: "RuthLopez.JPG",
               name: "Ruth"
             },{
-              image: "Ruth Zacnicte Vega.JPG",
+              image: "RuthZacnicteVega.JPG",
               name: "Ruth Zacnicte"
             },{
-              image: "Sandra Bollo.JPG",
+              image: "SandraBollo.JPG",
               name: "Sandra"
             },{
-              image: "Sandra Díaz.JPG",
-              name: "Sandra Díaz"
+              image: "SandraDiaz.JPG",
+              name: "Sandra Diaz"
             },{
-              image: "Vianey Tavatha Moreno.JPG",
+              image: "VianeyTavathaMoreno.JPG",
               name: "Vianey"
             },{
-              image: "Zazil Aurora Martinez.JPG",
+              image: "ZazilAuroraMartinez.JPG",
               name: "Zazil"
             }];

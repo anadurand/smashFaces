@@ -1,10 +1,10 @@
-'use strict'
-const render = (root, sede) => {
+'use strict';
+const render = (root) => {
   root.empty();
   const wrapper = $('<div class="wrapper"></div>');
   if(state.selectedSede != null){
-    console.log(state.selectedSede);
-    //wrapper.append(Game(update));
+    console.log(state.selectedSede[0].students);
+    wrapper.append(Game(update));
   }else{
     wrapper.append(StartGame(update));
   }
@@ -26,10 +26,10 @@ $(_ => {
     state.selectedSede =  state.sedes.filter(function(sede){
                             return sede.name == select.val();
                           });
-      render(root, state.selectedSede);
+      render(root);
 
   });
-  render(root, state.selectedSede);
-  console.log(state.sedes);
+  render(root);
+  //console.log(state.sedes);
 
 });
