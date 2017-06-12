@@ -36,6 +36,7 @@ hr{
   border-style: solid;
 }
 .select-sede{
+  position: relative;
   padding: 20px 0;
 }
 .select-sede span{
@@ -52,7 +53,7 @@ option{
 }
 .wrapper{
   width: 65%;
-  margin: 0 auto;
+  margin: 10px auto;
 }
 .start{
   display: flex;
@@ -73,6 +74,13 @@ option{
 .imagen{
   width: 100%;
   height: 100%;
+  opacity: 1;
+  transition: opacity 2s;
+  -moz-transition: opacity 2s;
+  -webkit-transition: opacity 2s;
+}
+.fade{
+  opacity: 0;
 }
 .form-container{
   display: flex;
@@ -103,6 +111,14 @@ option{
   font-size: 0.9rem;
   color: white;
   align-self: center;
+}
+.score-table{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+.puntaje{
+  margin-left: 10px;
 }
 @media (min-width:600px) {
 
