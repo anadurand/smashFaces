@@ -33,3 +33,4 @@ El objetivo de este ejercicio es aplicar lo aprendido en eventos con jQuery.
 ### Soluciòn del ejercicio
 
 En el siguiente link se puede ver el producto final de este ejercicio.
+[Smash Faces](https://anadurand.github.io/smashFaces/)
