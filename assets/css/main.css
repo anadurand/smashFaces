@@ -99,6 +99,11 @@ option{
   height: 35px;
   align-self: center;
 }
+.alert{
+  font-size: 0.9rem;
+  color: white;
+  align-self: center;
+}
 @media (min-width:600px) {
 
 

@@ -3,12 +3,14 @@ const render = (root) => {
   root.empty();
   const wrapper = $('<div class="wrapper"></div>');
   if(state.selectedSede != null){
-    console.log(state.selectedSede[0].students);
-    wrapper.append(Game(update));
+    if(state.status != null){
+      wrapper.append(GameOver(update));
+    }else{
+      wrapper.append(Game(update));
+    }
   }else{
     wrapper.append(StartGame(update));
   }
-
   root.append(wrapper);
 }
 const update = function(){
@@ -16,17 +18,20 @@ const update = function(){
 }
 const state = {
   sedes: sedes,
-  selectedSede: null
+  selectedSede: null,
+  status: null
 }
+const root = $(".root");
 $(_ => {
-  const root = $(".root");
   const select = $("select");
 
   select.change(function(){
     state.selectedSede =  state.sedes.filter(function(sede){
                             return sede.name == select.val();
                           });
-      render(root);
+      state.status = null;
+      arrarNumber=[];
+      update();
 
   });
   render(root);
